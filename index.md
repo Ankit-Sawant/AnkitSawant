@@ -10,7 +10,7 @@ This page presents two data visualizations generated using Vega-Lite and embedde
 ---
 
 ## 📊 Visualization 1: Bigfoot Sightings by State
-<iframe src="assests/bigfoot_state_counts.html" width="700" height="450" style="border:none;"></iframe>
+<iframe src="assets/bigfoot_state_counts.html" width="700" height="450" style="border:none;"></iframe>
 
 ### What is being visualized?
 This bar chart visualizes the number of Bigfoot sightings reported across various U.S. states, based on the BFRO dataset.
@@ -32,7 +32,7 @@ This visualization **does not overlap** with Homework #5 in either dataset or de
 ---
 
 ## 🌍 Visualization 2: Bigfoot Sightings by Season (Interactive)
-<iframe src="assests/bigfoot_season_time.html" width="700" height="450" style="border:none;"></iframe>
+<iframe src="assets/bigfoot_season_time.html" width="700" height="450" style="border:none;"></iframe>
 
 ### What is being visualized?
 This interactive scatter plot visualizes Bigfoot sightings over time and latitude, categorized by season. The dropdown menu allows filtering based on season.
@@ -50,8 +50,7 @@ Color is encoded by season using a default nominal palette to distinguish betwee
 ### Data Transformations
 A filtering transformation was implemented using Vega-Lite's parameter binding. Python was used initially to parse and clean date and season fields.
 
-### Homework #5 Overlap
-There is **no overlap** with plots or datasets from Homework #5.
+
 
 ---
 
@@ -72,8 +71,4 @@ The second chart allows users to filter sightings by season. This enhances inter
 
 ---
 
-## ✅ Summary of Requirements Met
-- Two visualizations embedded and functional  
-- One chart is interactive (dropdown filtering by season)  
-- Full write-up for both charts, covering encodings, colormaps, transformations, and overlap with HW5  
-- Links to data and notebooks included
+
