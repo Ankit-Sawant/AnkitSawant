@@ -21,7 +21,8 @@ I used a vertical bar chart where the x-axis encodes the state (nominal) and the
 ### Data Transformations
 To prepare the data, I cleaned out any rows with missing or invalid values in the state or relevant columns. I then grouped the dataset by state and calculated the number of records (licenses) associated with each one. The result was a simple frequency table, which I sorted to ensure the most active states were emphasized in the visualization.
 
-
+### Overlap 
+There is no overlap in data or plots from HW5
 ---
 
 ## 🌍 Visualization 2: Bigfoot Sightings Over Time by Season (Interactive)
@@ -38,7 +39,8 @@ The x-axis represents the date of the sighting (temporal data), and the y-axis r
 ### Data Transformations
 The data used in this plot was pre-cleaned (df_clean) to ensure accurate latitude, longitude, date, and season values. No aggregation was needed, as each row represents a single sighting.
 
-
+### Overlap 
+There is no overlap in data or plots from HW5
 
 ---
 
@@ -62,6 +64,10 @@ For this chart, I used a horizontal bar layout to improve readability of the age
 ### Data Transformations
 On the data side, I first ensured that the Square Footage column was numeric by coercing any invalid entries. I then removed rows with missing values in the Agency Name or Square Footage columns. To create the summary view, I grouped the data by Agency Name and calculated the total square footage for each agency. After aggregating the data, I sorted the agencies in descending order and selected only the top 15 for display to keep the visualization focused an
 
+
+### Overlap 
+This chart uses the same  grouping technique from Homework #5
+
 --- 
 ## 📊 Visualization 4: Building Age Vs Sqaure Footage
 <iframe src="assets/building_age_sqft.html" width="1200" height="450" style="border:none;"></iframe> 
@@ -75,6 +81,11 @@ The x-axis represents building age, calculated as 2025 - Year Acquired, and the 
 
 ### Data Transformations
 I began by converting the Year Acquired and Square Footage columns to numeric, coercing errors to handle any non-numeric values. I dropped rows with missing values in the key columns needed for this analysis. I then created a new column, Building Age, by subtracting the acquisition year from 2025. This allowed me to easily plot age on the x-axis. The resulting dataset was filtered to remove rows lacking necessary information for either axis or color encoding.
+
+
+### Overlap
+This chart uses the same  grouping technique from Homework #5
+
 
 ### Interactivity
 This plot includes a dropdown menu that allows users to select an agency from the dataset. When an agency is selected, the scatterplot updates to only show buildings belonging to that agency. This makes the plot much more informative and user-friendly, as it avoids overwhelming the viewer with thousands of data points at once. The dropdown enables focused analysis and comparison between agencies, helping users better understand how different types of buildings are distributed over time and space.
