@@ -25,7 +25,7 @@ To prepare the data, I cleaned out any rows with missing or invalid values in th
 ---
 
 ## 🌍 Visualization 2: Bigfoot Sightings Over Time by Season (Interactive)
-<iframe src="assets/bigfoot_season_time.html" width="1000" height="450" style="border:none;"></iframe>
+<iframe src="assets/bigfoot_season_time.html" width="1200" height="450" style="border:none;"></iframe>
 
 ### What is being visualized?
 This interactive scatterplot shows the geographical distribution (latitude) of Bigfoot sightings over time, with an option to filter the data by season. The chart aims to uncover any seasonal or spatial trends in Bigfoot sighting reports.
@@ -50,7 +50,7 @@ The data used in this plot was pre-cleaned (df_clean) to ensure accurate latitud
 ### EXTRA CREDIT
 
 ## 📊 Visualization 3: Top 15 Agencies by Total Building Square Footage
-<iframe src="assets/building_sqft_by_agency.html" width="1000" height="450" style="border:none;"></iframe> 
+<iframe src="assets/building_sqft_by_agency.html" width="1200" height="450" style="border:none;"></iframe> 
 
 ### What is being visualized?
 This visualization is a horizontal bar chart that displays the top 15 government agencies in Illinois by the total square footage of the buildings they own or manage. The chart helps convey which agencies occupy the most physical infrastructure space and provides a clear comparison of their building footprints.
@@ -64,7 +64,7 @@ On the data side, I first ensured that the Square Footage column was numeric by 
 
 --- 
 ## 📊 Visualization 4: Building Age Vs Sqaure Footage
-<iframe src="assets/building_age_sqft.html" width="1000" height="450" style="border:none;"></iframe> 
+<iframe src="assets/building_age_sqft.html" width="1200" height="450" style="border:none;"></iframe> 
 
 
 ### What is being visualized?
