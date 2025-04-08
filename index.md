@@ -1,1 +1,1 @@
-<iframe src="bigfoot_state_counts.html" width="700" height="450" style="border:none;"></iframe> 
+<iframe src="assets/bigfoot_state_counts.html" width="700" height="450" style="border:none;"></iframe> 
