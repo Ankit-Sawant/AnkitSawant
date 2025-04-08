@@ -82,8 +82,8 @@ This plot includes a dropdown menu that allows users to select an agency from th
 ---
 
 ## 🔗 Data Sources
-- **Bigfoot dataset:** [BFRO Fall 2022](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/bfro_reports_fall2022.csv)  
-- **Building dataset:** [Illinois Building Inventory](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)
+- **Bigfoot dataset:** [BFRO Fall 2022](https://github.com/Ankit-Sawant/AnkitSawant/blob/main/bfro_reports_fall2022.csv)  
+- **Building dataset:** [Illinois Building Inventory](https://github.com/Ankit-Sawant/AnkitSawant/blob/main/building_inventory.csv)
 
 ---
 
