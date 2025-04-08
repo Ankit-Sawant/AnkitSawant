@@ -23,6 +23,7 @@ To prepare the data, I cleaned out any rows with missing or invalid values in th
 
 ### Overlap 
 There is no overlap in data or plots from HW5
+
 ---
 
 ## 🌍 Visualization 2: Bigfoot Sightings Over Time by Season (Interactive)
