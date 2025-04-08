@@ -5,7 +5,7 @@ title: Data Visualization Dashboard
 
 # 🧭 Data Visualization Dashboard
 
-This page presents two data visualizations generated using Vega-Lite and embedded via HTML in this GitHub Pages Jekyll site. Each visualization includes a description, design explanation, and discussion of interactivity, transformations, and overlap with Homework 5.
+This page presents two data visualizations generated using Vega-Lite and embedded via HTML in this GitHub Pages Jekyll site. Each visualization includes a description, design explanation, and discussion of interactivity and transformations.
 
 ---
 
