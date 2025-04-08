@@ -10,7 +10,7 @@ This page presents two data visualizations generated using Vega-Lite and embedde
 ---
 
 ## 📊 Visualization 1: Bigfoot Sightings by State
-<iframe src="assets/bigfoot_state_counts.html" width="1200" height="450" style="border:none;"></iframe>
+<iframe src="assets/bigfoot_state_counts.html" width="1700" height="450" style="border:none;"></iframe>
 
 ### What is being visualized?
 This bar chart visualizes the number of Bigfoot sightings reported across various U.S. states, based on the BFRO dataset.
