@@ -1,1 +1,1 @@
-<iframe src="assets/bigfoot_season_time.json" width="700" height="450" style="border:none;"></iframe> 
+<iframe src="bigfoot_state_counts.html" width="700" height="450" style="border:none;"></iframe> 
